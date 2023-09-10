@@ -111,6 +111,17 @@ ul {
 
 /* header */
 
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.container-header {
+    display: flex; 
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
 .logo {
     color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
